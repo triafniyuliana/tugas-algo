@@ -7,5 +7,7 @@ STUDI KASUS
   2. Memakai jas almamater atau tidak
   3. Membawa kartu ujian
   4. Nilai kehadiran minimal 90
-- Jika mahasiswa memenuhi semua syarat, program akan menampilkan pesan bahwa mahasiswa dapat mengikuti ujian tetapi jika tidak maka mahasiswa tidak bisa mengikuti ujian atau harus keluar ruangan 
+- Jika mahasiswa memenuhi semua syarat, program akan menampilkan pesan bahwa mahasiswa dapat mengikuti ujian tetapi jika tidak maka mahasiswa tidak bisa mengikuti ujian atau harus keluar ruangan
+
+  ![flowchart (1)](https://github.com/triafniyuliana/tugas-algo/assets/145626482/9e9bafe9-c64f-4c16-a4de-04c43ca434a7)
 
