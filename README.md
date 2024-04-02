@@ -1,6 +1,3 @@
-Masalah : akan diadakan ujian semster 1, agar bisa melaksanakan ujian tersebut mahasiswa harus memenuhi syarat yaitu pelunasan biaya bulanan dan UAS ,memakai jas almamater saat ujian, membawa kartu ujian dan nilai kehadiran minimal 90 ,banyak mahasiswa yang tidak memenuhi syarat tersebut .
-solusi : membuat sebuah program untuk mengecek apakah mahasiswa tersebut bisa mengikuti ujian  atau tidak bisa melaksanakan ujian tersebut.
-
 STUDI KASUS
 1.Program dimulai, dan mahasiswa diminta untuk memasukkan informasi seperti NIM,NAMA,dll.
 2.Program memeriksa apakah mahasiswa telah
